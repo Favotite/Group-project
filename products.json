@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "price": 9.99,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+      "stock": 99,
+      "rating": 4.94
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "price": 19.99,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+      "stock": 34,
+      "rating": 3.28
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "price": 14.99,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+      "stock": 89,
+      "rating": 4.64
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "price": 12.99,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+      "stock": 91,
+      "rating": 4.36
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "price": 8.99,
+      "category": "beauty",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+      "stock": 79,
+      "rating": 4.32
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "price": 49.99,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+      "stock": 29,
+      "rating": 4.37
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "price": 129.99,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+      "stock": 58,
+      "rating": 4.26
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "price": 89.99,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j adore/thumbnail.webp",
+      "stock": 98,
+      "rating": 3.8
+    },
+    {
+      "id": 9,
+      "title": "Dolce Shine Eau de",
+      "price": 69.99,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+      "stock": 4,
+      "rating": 3.96
+    },
+    {
+      "id": 10,
+      "title": "Gucci Bloom Eau de",
+      "price": 79.99,
+      "category": "fragrances",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+      "stock": 91,
+      "rating": 2.74
+    },
+    {
+      "id": 11,
+      "title": "iPhone  X",
+      "price": 899.99,
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-x/thumbnail.webp",
+      "stock": 34,
+      "rating": 4.69
+    },
+    {
+      "id": 12,
+      "title": "iPhone 11",
+      "price": 899.99,
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-11/thumbnail.webp",
+      "stock": 32,
+      "rating": 4.2
+    },
+    {
+      "id": 13,
+      "title": "Samsung Universe 9",
+      "price": 1249.99,
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-universe-9/thumbnail.webp",
+      "stock": 36,
+      "rating": 4.09
+    },
+    {
+      "id": 14,
+      "title": "OPPOF19",
+      "price": 280.99,
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-f19/thumbnail.webp",
+      "stock": 123,
+      "rating": 4.3
+    },
+    {
+      "id": 15,
+      "title": "Huawei P30",
+      "price": 499.99,
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/huawei-p30/thumbnail.webp",
+      "stock": 32,
+      "rating": 4.09
+    },
+    {
+      "id": 16,
+      "title": "Blue & Black Check Shirt",
+      "price": 29.99,
+      "category": "mens-shirts",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-and-black-check-shirt/thumbnail.webp",
+      "stock": 44,
+      "rating": 4.19
+    },
+    {
+      "id": 17,
+      "title": "Men's Casual Shirt",
+      "price": 39.99,
+      "category": "mens-shirts",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-casual-shirt/thumbnail.webp",
+      "stock": 67,
+      "rating": 4.15
+    },
+    {
+      "id": 18,
+      "title": "Women Casual T-Shirt",
+      "price": 19.99,
+      "category": "tops",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/women-casual-t-shirt/thumbnail.webp",
+      "stock": 80,
+      "rating": 4.2
+    },
+    {
+      "id": 19,
+      "title": "Leather Handbag",
+      "price": 59.99,
+      "category": "womens-bags",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/leather-handbag/thumbnail.webp",
+      "stock": 25,
+      "rating": 4.5
+    },
+    {
+      "id": 20,
+      "title": "Annibale Colombo Bed",
+      "price": 1899.99,
+      "category": "furniture",
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+      "stock": 12,
+      "rating": 4.77
+    }
+  ]
+}
